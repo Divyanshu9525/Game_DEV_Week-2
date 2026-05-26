@@ -227,9 +227,8 @@ void OnTriggerEnter(Collider other) {
 2. Attach `LootPickup.cs` → drag the appropriate SO into the **Data** slot for each instance.
 
 <aside>
-💡
 
-**Why Scriptable Objects here?** All 50 loot prefabs in a full game share *one* data asset in memory per type. Change the value or color of the Corporate Data Drive? Update the SO once — every instance in every scene reflects it instantly.
+> 💡 **Why Scriptable Objects here?** All 50 loot prefabs in a full game share *one* data asset in memory per type. Change the value or color of the Corporate Data Drive? Update the SO once — every instance in every scene reflects it instantly.
 
 </aside>
 
