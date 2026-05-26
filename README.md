@@ -16,6 +16,9 @@ This project bridges all your Week 1 systems — **Meshes, Physics, NavMesh, Ray
 
 ---
 
+<img src="./Resources/first_level.png" width="600"> <img src="./Resources/second_level.png" width="400">
+
+
 ## Phase 1 — The Facility & The Thief
 
 *Meshes, ProBuilder, Rigidbody Movement*
