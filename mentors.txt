@@ -1,1 +1,4 @@
-Name and contact of the mentors for this particular assignment
+Name                  Discord
+------------------------------------
+Kshitij           kshitij_28
+Swarit            swarit.srivastava
