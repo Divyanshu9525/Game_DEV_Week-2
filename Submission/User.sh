@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 #Participant to enter their details here:
 
-name="name goes here"
-Roll_no="roll number goes here"
-branch="branch goes here"
-mail="mail here @itbhu"
-phone="phone number here"
-remarks="remarks go here"
+name="Divyanshu"
+Roll_no="25175018"
+branch="Engineering Physics"
+mail="divyanshu.student.phy25@itbhu.ac.in"
+phone="8789253349"
+remarks="Was Fun"
 #enter anything you want to add
 
-echo $name " | " $Roll_no " | " $branch " | " $remarks
-echo $mail - $phone
+echo $Divyanshu " | " $25175018 " | " $EP " | " $Fun
+echo $divyanshu.student.phy25@itbhu.ac.in - $8789253349
